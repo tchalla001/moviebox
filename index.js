@@ -1,0 +1,1 @@
+const movieInfo = document.getElementById(".movie-info")
