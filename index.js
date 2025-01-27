@@ -1,1 +1,2 @@
-const movieInfo = document.getElementById(".movie-info")
+const button = document.getElementById(".watch-now-btn")
+
